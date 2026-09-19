@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6d00fea7497cae108b7975d7",
+  "owner": "xhmnytmhh",
+  "repo": "page-2b0f07996692617a2aba9d53",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2b0f07996692617a2aba9d53",
+      "a": "海豚湾(Dolphin)",
+      "b": "免费订阅clash节点",
+      "entity": "海豚湾(Dolphin)",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "18f7b91740663520e943fda91ff4f8e624fab62d6b6ec5f5a454349de4f700fd",
+      "content": {
+        "primary_entity": "海豚湾(Dolphin)",
+        "keyword1": "海豚湾(Dolphin)",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_DESCRIPTION": "，海豚湾提供基础版、旗舰版和团队版三档方案，月付15元起，年付可享更低均摊成本。基础版含每月100GB流量与3台设备，旗舰版升级至300GB流量和5台设备，团队版则覆盖1000GB流量与20台设备。用户可在Clash客户端中导入订阅，按设备数量和月度用量选择合适套餐。",
+          "AI_HERO_SUBTITLE": "海豚湾订阅节点，按需选套餐",
+          "AI_HERO_INTRO": "海豚湾(Dolphin)面向需要海外加速与Clash订阅配置的用户，提供按月或按年计费的三档方案。从个人轻量使用到团队多设备协同，均可在Clash客户端中按订阅配置流程完成节点加载。",
+          "AI_VISUAL_TITLE": "海豚湾节点套餐轻松选",
+          "AI_HIGHLIGHT_1": "基础版月付15元起",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "海豚湾三档套餐按流量、设备数和线路类型区分，适合不同规模的Clash订阅使用。",
+          "AI_FEATURE_TITLE_1": "流量分档清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB，按用量挑选不浪费。",
+          "AI_FEATURE_TITLE_2": "设备数按需升级",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，手机电脑平板可同时在线。",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付仅需150元起，长期使用均摊成本更低。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "海豚湾订阅链接可导入Clash客户端，按设备类型选择对应版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合日常浏览，旗舰版适合流媒体与游戏，团队版适合多人共享。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成Clash客户端配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数，从基础版、旗舰版、团队版中挑选合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与Clash客户端版本是否满足订阅导入条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在Clash客户端中按文档导入订阅地址，完成节点加载与更新。",
+          "AI_CLOSING_TITLE": "海豚湾套餐选型",
+          "AI_CLOSING_TEXT": "按设备数和月度用量找到对应方案，即可在Clash客户端中配置使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "海豚湾的套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "按每月流量与同时在线设备数区分：基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。旗舰版与团队版在节点等级与专属支持上提供更多权益。",
+          "AI_FAQ_QUESTION_2": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_2": "购买后获取订阅链接，在对应客户端中选择从链接导入或粘贴订阅地址，保存后更新节点列表即可。具体入口以所使用客户端的配置文档为准。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付在月付价格基础上提供折扣，例如基础版年付150元、旗舰版年付350元、团队版年付850元。选择哪种周期取决于使用时长，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "若同时在线的设备数量超过所选套餐上限，可升级至更高一档套餐，或调整同时登录的设备组合。旗舰版可支持5台设备，团队版可支持20台设备。",
+          "AI_FAQ_QUESTION_5": "不同客户端需要分别配置吗？",
+          "AI_FAQ_ANSWER_5": "每种客户端都有对应的配置方式，通常使用同一份订阅信息即可，但导入路径与设置项因客户端而异，参照各客户端的配置文档操作即可完成。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8148e187826cd4320028a611ffa05eac094a0dfda6722cc374cc6011cfb3af3a",
+    "sitemap.xml": "600b43a4267d4f415e0863f6f4e0f87889c7030bf6c1b36c56d8ce1d06ac65d7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "04e528c188a8cf0aef30e87ee1ac7cb2a431ceecc856f4e871ae64aedcff63d5"
+}
